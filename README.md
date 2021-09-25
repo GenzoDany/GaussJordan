@@ -1,2 +1,2 @@
 # Gauss Jordan 
-## con Scala y Tail Recursion
+### _Algoritmo de Gauss Jordan con Scala y Tail Recursion_
